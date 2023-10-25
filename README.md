@@ -11,7 +11,7 @@
 # Stuff about me 👻 :
 
 ### - Learning :
-- 📌 AI Training
+- 📌 Neural Network Induction
 - 📌 AI Fine-Tuning
 
 ### - Hobbies :
