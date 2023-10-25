@@ -16,6 +16,8 @@
 
 ### - Hobbies :
 - 📌 Games
+- 📌 Being lazy
+- 📌 Coding
 - 📌 Watching anime
 - 📌 Biking
 - 📌 Swimming
