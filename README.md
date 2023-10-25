@@ -1,5 +1,7 @@
 # Ohayo 👋
 
+<img src="/icons/krul.gif">
+
 </br>
 </br>
 </br>
