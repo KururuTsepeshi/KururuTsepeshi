@@ -31,7 +31,7 @@
 
 ### - Tools : 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ae,blender,cmake,docker,git,github,gitlab,idea,stackoverflow,pytorch,visualstudio,linux" /></br>
+    <img src="https://skillicons.dev/icons?i=ps,ae,blender,cmake,docker,git,github,gitlab,idea,stackoverflow,pytorch,visualstudio,vscode,linux" /></br>
 </p></br>
 
 ### - Languages :
