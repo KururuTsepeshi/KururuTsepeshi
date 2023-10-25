@@ -1,6 +1,8 @@
 # Ohayo 👋
 
-<img src="/icons/krul.gif">
+<p align="center">
+    <img src="/icons/krul.gif" width="250px" />
+</p>
 
 </br>
 </br>
