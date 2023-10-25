@@ -25,9 +25,9 @@
 
 <p align="center">
     ### - Tools : 
-    </img src="https://skillicons.dev/icons?i=ps,ae,blender,cmake,docker,git,github,gitlab,idea,stackoverflow,pytorch,visualstudio,linux"></br></br>
+    <img src="https://skillicons.dev/icons?i=ps,ae,blender,cmake,docker,git,github,gitlab,idea,stackoverflow,pytorch,visualstudio,linux" /></br></br>
     ### - Languages :
-    </img src="https://skillicons.dev/icons?i=cs,cpp,html,css,java,kotlin,js,lua,php,powershell,py,arduino,raspberrypi,sql,md"></br></br>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,java,kotlin,js,lua,php,powershell,py,arduino,raspberrypi,sql,md" /></br></br>
 </p>
 
 
